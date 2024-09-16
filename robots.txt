@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uluensen.github.io/sitemap.html.gz
+Sitemap: https://uluensen.github.io/app/sitemap.html.gz
+Sitemap: https://uluensen.github.io/assets/sitemap.html.gz
+Sitemap: https://uluensen.github.io/css/sitemap.html.gz
+Sitemap: https://uluensen.github.io/includes/sitemap.html.gz
+Sitemap: https://uluensen.github.io/item/sitemap.html.gz
+Sitemap: https://uluensen.github.io/src/sitemap.html.gz
